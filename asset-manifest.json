@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/subash2628/e-nawalpur/static/css/main.5f361e03.chunk.css",
+    "main.js": "/subash2628/e-nawalpur/static/js/main.eaf09bc9.chunk.js",
+    "main.js.map": "/subash2628/e-nawalpur/static/js/main.eaf09bc9.chunk.js.map",
+    "runtime-main.js": "/subash2628/e-nawalpur/static/js/runtime-main.f933dc60.js",
+    "runtime-main.js.map": "/subash2628/e-nawalpur/static/js/runtime-main.f933dc60.js.map",
+    "static/js/2.29b094e9.chunk.js": "/subash2628/e-nawalpur/static/js/2.29b094e9.chunk.js",
+    "static/js/2.29b094e9.chunk.js.map": "/subash2628/e-nawalpur/static/js/2.29b094e9.chunk.js.map",
+    "index.html": "/subash2628/e-nawalpur/index.html",
+    "precache-manifest.7e60ae03d2e7f97ac949782935d70b8b.js": "/subash2628/e-nawalpur/precache-manifest.7e60ae03d2e7f97ac949782935d70b8b.js",
+    "service-worker.js": "/subash2628/e-nawalpur/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/subash2628/e-nawalpur/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.29b094e9.chunk.js.LICENSE.txt": "/subash2628/e-nawalpur/static/js/2.29b094e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f933dc60.js",
+    "static/js/2.29b094e9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eaf09bc9.chunk.js"
+  ]
+}
